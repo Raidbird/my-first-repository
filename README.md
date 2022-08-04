@@ -1,4 +1,6 @@
 # README #
+## Table of Contents
+- Example_file.txt
 
 Important steps for git workflow:
 
